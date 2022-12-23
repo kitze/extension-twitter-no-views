@@ -1,0 +1,3 @@
+div:has(> div > a[href*="analytics"]) {
+    display: none !important;
+}
