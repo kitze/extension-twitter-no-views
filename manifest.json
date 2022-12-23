@@ -5,9 +5,10 @@
   "description": "Hides the views count on twitter",
   "homepage_url": "http://kitze.io",
   "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
+    "16": "icons/extension_icon@16px.png",
+    "19": "icons/extension_icon@19px.png",
+    "48": "icons/extension_icon@48px.png",
+    "128": "icons/extension_icon@128px.png"
   },
   "host_permissions": ["*://*.twitter.com/"],
   "content_scripts": [
