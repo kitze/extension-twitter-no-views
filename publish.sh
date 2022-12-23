@@ -16,13 +16,13 @@ new_version="$major.$new_minor"
 # Update the manifest with the new version
 sed -i '' "s/$current_version/$new_version/" manifest.json
 
-git commit -am "Bump version to $new_version"
+#git commit -am "Bump version to $new_version"
 
 # Push the commit to the "main" branch
-git push origin main
+#git push origin main
 
 # Zip the folder and append the new version to the file name
-zip -r -X -x "$(basename $PWD)_$new_version.zip" .
+zip -r -X "$(basename $PWD)_$new_version.zip" .
 
 # Open the zipped file in Finder
 open .
