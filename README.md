@@ -203,7 +203,7 @@ Hides the annoying view count on Twitter with CSS
       The cloud, built for developers.
     </td>
     <td width="33%" valign="top">
-      <a href="https://kraken.io/?ref=kitze%2Fextension-twitter-no-views"><img src="https://assets.kraken.io/assets/images/media-kit/logotypes/downloads/krakenio-horizontal-full.png" width="40" alt="Kraken.io logo"></a><br>
+      <a href="https://kraken.io/?ref=kitze%2Fextension-twitter-no-views"><img src="https://media.gifs.so/sponsors/kitze-io/kraken-io.png" width="40" alt="Kraken.io logo"></a><br>
       <strong><a href="https://kraken.io/?ref=kitze%2Fextension-twitter-no-views">Kraken.io</a></strong><br>
       We optimize your images, to save you bandwidth, make your websites faster, make your customers less frustrated, and reduce your CDN costs.
     </td>
